@@ -1,1 +1,2 @@
 This is the chapter 2 created while learning git.
+Adding new things for chapter 2.
